@@ -21,7 +21,6 @@
 			border-radius: _size(border-radius);
 			display: block;
 		}
-
 		&.left,
 		&.right {
 			max-width: 40%;
@@ -131,6 +130,9 @@
 		.image {
 			box-shadow: 0 0 0 4px _palette($p, bg), 0 0 0 5px _palette($p, border);
 
+			&.borderless {
+				box-shadow: 0 0 0 #000;
+			}
 			&.phone {
 				box-shadow: none;
 
