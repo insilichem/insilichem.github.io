@@ -1,4 +1,5 @@
-@import url(font-awesome.min.css);
+/*@import url(font-awesome.min.css);*/
+@import url(icomoon.css);
 /*
 	Fractal by HTML5 UP
 	html5up.net | @n33co
@@ -1768,7 +1769,7 @@ input[type="radio"]:focus + label:before {
   .icon:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
+    font-family: icomoon;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important; }
