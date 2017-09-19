@@ -1,57 +1,59 @@
 @font-face {
     font-family: 'icomoon';
-    src:    url('../fontsicomoon.eot?l9g2in');
-    src:    url('../fonts/icomoon.eot?l9g2in#iefix') format('embedded-opentype'),
-        url('../fonts/icomoon.ttf?l9g2in') format('truetype'),
-        url('../fonts/icomoon.woff?l9g2in') format('woff'),
-        url('../fonts/icomoon.svg?l9g2in#icomoon') format('svg');
+    src:  url('../fonts/icomoon.eot?qatdle');
+    src:  url('../fonts/icomoon.eot?qatdle#iefix') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?qatdle') format('truetype'),
+      url('../fonts/icomoon.woff?qatdle') format('woff'),
+      url('../fonts/icomoon.svg?qatdle#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
-}
-
-
-.icon-uniF153:before {
+  }
+  
+  .icon-uniF153:before {
     content: "\f153";
-}
-.icon-home:before {
+  }
+  .icon-home:before {
     content: "\f015";
-}
-.icon-leaf:before {
+  }
+  .icon-leaf:before {
     content: "\f06c";
-}
-.icon-github:before {
+  }
+  .icon-github:before {
     content: "\f09b";
-}
-.icon-briefcase:before {
+  }
+  .icon-briefcase:before {
     content: "\f0b1";
-}
-.icon-flask:before {
+  }
+  .icon-flask:before {
     content: "\f0c3";
-}
-.icon-envelope:before {
+  }
+  .icon-envelope:before {
     content: "\f0e0";
-}
-.icon-linkedin:before {
+  }
+  .icon-linkedin:before {
     content: "\f0e1";
-}
-.icon-angle-down:before {
+  }
+  .icon-angle-down:before {
     content: "\f107";
-}
-.icon-info:before {
+  }
+  .icon-info:before {
     content: "\f129";
-}
-.icon-bank:before {
+  }
+  .icon-bank:before {
     content: "\f19c";
-}
-.icon-institution:before {
+  }
+  .icon-institution:before {
     content: "\f19c";
-}
-.icon-university:before {
+  }
+  .icon-university:before {
     content: "\f19c";
-}
-.icon-graduation-cap:before {
+  }
+  .icon-graduation-cap:before {
     content: "\f19d";
-}
-.icon-mortar-board:before {
+  }
+  .icon-mortar-board:before {
     content: "\f19d";
-}
+  }
+  .icon-file-text2:before {
+    content: "\e900";
+  }
