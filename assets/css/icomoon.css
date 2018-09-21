@@ -8,8 +8,8 @@
     font-weight: normal;
     font-style: normal;
   }
-  
-  .icon-uniF153:before {
+
+  .icon-python:before {
     content: "\f153";
   }
   .icon-home:before {
@@ -56,4 +56,7 @@
   }
   .icon-file-text2:before {
     content: "\e900";
+  }
+  .icon-twitter:before {
+    content: "\ea96";
   }
