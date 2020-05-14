@@ -1,0 +1,15 @@
+To edit the pictures, use GIMP
+
+All of them are resized to 250 (current team) and 200 (former_team).
+
+To edit former_team pictures:
+1. Open the picture in GIMP
+2. Layer -> Transparency -> Add Alpha Channel
+3. Click with the right button in the selection tool (square) and change it to circle. Circle the face of the person.
+4. Select -> Invert 
+5. Edit -> Clear
+6. Image -> Crop to Selection
+7. Image -> Scale Image (200 x 200 px)
+8. Export as png and save.
+
+DONE!
